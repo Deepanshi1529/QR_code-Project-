@@ -1,0 +1,16 @@
+{
+  "name": "qr_code-project",
+  "version": "1.0.0",
+  "description": "this will generate a QR CODE",
+  "license": "ISC",
+  "author": "Deepanshi Gulia",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^12.8.1",
+    "qr-image": "^3.2.0"
+  }
+}
